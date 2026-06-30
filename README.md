@@ -3,8 +3,9 @@ Converts key: value text into JSON.
 
 #### Running
 
-pip install flask
-python app.py
+pip3 install flask
+
+python3 app.py
 
 http://localhost:5000
 
